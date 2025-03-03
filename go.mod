@@ -1,4 +1,4 @@
-module github.com/johandup3/go-trader
+module github.com/johan-duplessis/trader
 
 go 1.24.0
 
